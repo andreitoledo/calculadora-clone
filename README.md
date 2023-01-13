@@ -1,6 +1,9 @@
 # Calculadora JavaScript
 
-[Andrei Toledo]
+#### @author:
+Andrei Toledo
+Analista e Desenvolvedor de Sistemas
+
 
 Calculadora desenvolvida em JavaSctipt.
 
